@@ -1,0 +1,12 @@
+{
+  "name": "goapp",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "vercel": "^28.4.17"
+  },
+  "scripts": {
+    "setup": "vercel login && vercel link",
+    "start": "cd ../.. && vercel dev"
+  }
+}
