@@ -7,6 +7,6 @@
   },
   "scripts": {
     "setup": "vercel login && vercel link",
-    "start": "cd ../.. && vercel dev"
+    "start": "vercel dev"
   }
 }
