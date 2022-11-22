@@ -14,8 +14,7 @@
   },
   "devDependencies": {
     "prettier": "latest",
-    "turbo": "latest",
-    "vercel": "^28.4.17"
+    "turbo": "latest"
   },
   "engines": {
     "node": ">=14.0.0"

@@ -2,9 +2,7 @@
   "name": "goapp",
   "version": "0.0.1",
   "private": true,
-  "devDependencies": {
-    "vercel": "^28.4.17"
-  },
+  "devDependencies": {},
   "scripts": {
     "setup": "vercel login && vercel link",
     "start": "vercel dev"
